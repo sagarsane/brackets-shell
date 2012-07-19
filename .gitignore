@@ -23,6 +23,7 @@ appshell/.DS_Store
 !make_appshell_project.bat
 !make_symlinks.sh
 !make_symlinks.bat
+!bootstrap.py
 
 # Add project files
 !appshell.xcodeproj
